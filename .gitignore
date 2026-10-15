@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.expo/
+native-example/ios/
+native-example/android/
+.DS_Store
+*.log
+*.tsbuildinfo

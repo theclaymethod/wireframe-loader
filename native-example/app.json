@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Wireframe Loader",
+    "slug": "wireframe-loader",
+    "version": "1.0.0",
+    "newArchEnabled": true,
+    "ios": {
+      "bundleIdentifier": "dev.artifacture.wireframe",
+      "supportsTablet": false,
+      "infoPlist": { "CADisableMinimumFrameDurationOnPhone": true }
+    }
+  }
+}

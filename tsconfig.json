@@ -1,0 +1,4 @@
+{
+  "compilerOptions": { "strict": true, "jsx": "react-jsx", "target": "ES2022", "lib": ["ES2022", "DOM"], "module": "preserve", "moduleResolution": "bundler", "skipLibCheck": true, "noEmit": true, "allowImportingTsExtensions": true },
+  "include": ["src", "example"]
+}
